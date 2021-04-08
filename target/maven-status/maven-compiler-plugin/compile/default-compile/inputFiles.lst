@@ -1,0 +1,12 @@
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/component/UserBean.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/persistence/model/User.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/controller/AuthController.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/WebServer.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/controller/UserController.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/controller/MapController.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/context/config/SpringFoxConfig.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/mapper/UserMapper.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/mapper/Mapper.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/persistence/repository/UserRepository.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/enums/Gender.java
+/Users/asafasher/my projects/invasion/src/main/java/com/asafasher/invasion/api/user/UserDTO.java
